@@ -1,4 +1,4 @@
-Avance 60% – Proyecto de Grado II
+*Avance 60% – Proyecto de Grado II*
 Descripción general
 Este repositorio reúne los productos entregados en el primer avance del 60% del proyecto “Modelos sistémicos para el fortalecimiento del cine independiente colombiano”. En esta etapa se presenta un avance verificable en tres frentes principales: actualización del documento base del proyecto, consolidación del análisis teórico del Objetivo Específico 1 (OE1) y desarrollo preliminar del modelo de dinámica de sistemas implementado en PowerSim.
 Contenido entregado
